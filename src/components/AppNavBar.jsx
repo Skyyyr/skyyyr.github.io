@@ -1,5 +1,6 @@
 import {Navbar, Nav, Container, Image} from 'react-bootstrap'
 import logo from "../assets/logo.png"
+import { Link } from 'react-router-dom'
 
 function AppNavbar(props) {
     return (
