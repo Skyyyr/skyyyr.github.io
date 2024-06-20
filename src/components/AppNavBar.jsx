@@ -19,19 +19,19 @@ function AppNavbar(props) {
                     <Navbar.Toggle/>
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
-                            <Link href="/home">
+                            <Link to="/home" className="nav-link">
                                 Home
                             </Link>
-                            <Link href="/roadmap">
+                            <Link to="/roadmap" className="nav-link">
                                 Roadmap
                             </Link>
-                            <Link href="/patchnotes">
+                            <Link to="/patchnotes" className="nav-link">
                                 Patch Notes
                             </Link>
-                            <Link href="/faq">
+                            <Link to="/faq" className="nav-link">
                                 FAQ
                             </Link>
-                            <Link href="/about">
+                            <Link to="/about" className="nav-link">
                                 About Us
                             </Link>
                         </Nav>
