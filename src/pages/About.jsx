@@ -1,43 +1,5 @@
 import React from 'react';
-
-const teamMembers = [
-    {
-        role: 'Lead Developer',
-        name: 'Sky'
-    },
-    {
-        role: 'Lead Admin',
-        name: 'Sky'
-    },
-    {
-        role: 'Developer',
-        name: 'Sky'
-    },
-    {
-        role: 'Developer',
-        name: 'Sky'
-    },
-    {
-        role: 'Community Representative',
-        name: 'Sky'
-    },
-    {
-        role: 'Community Representative',
-        name: 'Sky'
-    },
-    {
-        role: 'Community Representative',
-        name: 'Sky'
-    },
-    {
-        role: 'Event Coordinator',
-        name: 'Sky'
-    },
-    {
-        role: 'Event Coordinator',
-        name: 'Sky'
-    },
-];
+import teamMembers from '../data/team.json'
 
 function About() {
     return (

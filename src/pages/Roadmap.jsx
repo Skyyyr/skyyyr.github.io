@@ -1,56 +1,7 @@
 import { ProgressBar, Tab, Tabs } from 'react-bootstrap';
+import jsonData from '../data/roadmap.json'
 
 function Roadmap() {
-    const data = [
-        {
-            eventKey: "Chapter1",
-            chapterTitle: "Chapter 1",
-            chapterTitleText: "Highlights from the Chapter",
-            chapterText: [
-                { text: "This", status: "completed" },
-                { text: "That", status: "inprogress" },
-                { text: "That", status: "inprogress" },
-                { text: "Other", status: "notstarted" }
-            ]
-        },
-        {
-            eventKey: "Chapter2",
-            chapterTitle: "Chapter 2",
-            chapterTitleText: "Highlights from the Chapter",
-            chapterText: [
-                { text: "This", status: "notstarted" },
-                { text: "That", status: "notstarted" }
-            ]
-        },
-        {
-            eventKey: "Chapter3",
-            chapterTitle: "Chapter 3",
-            chapterTitleText: "Highlights from the Chapter",
-            chapterText: [
-                { text: "This", status: "notstarted" },
-                { text: "That", status: "notstarted" }
-            ]
-        },
-        {
-            eventKey: "Chapter4",
-            chapterTitle: "Chapter 4",
-            chapterTitleText: "Highlights from the Chapter",
-            chapterText: [
-                { text: "This", status: "notstarted" },
-                { text: "That", status: "notstarted" }
-            ]
-        },
-        {
-            eventKey: "Chapter5",
-            chapterTitle: "Chapter 5",
-            chapterTitleText: "Highlights from the Chapter",
-            chapterText: [
-                { text: "This", status: "notstarted" },
-                { text: "That", status: "notstarted" }
-            ]
-        }
-    ];
-
     const getStatusColor = (status) => {
         switch (status) {
             case 'completed':
@@ -112,11 +63,11 @@ function Roadmap() {
                 Below is our roadmap for each chapter.
             </p>
             <Tabs
-                defaultActiveKey={data[0].eventKey}
+                defaultActiveKey={jsonData[0].eventKey}
                 id='uncontrolled-tab'
                 className='mb-3'
             >
-                {data.map((chapter) => {
+                {jsonData.map((chapter) => {
                     const progress = calculateProgress(chapter.chapterText);
                     return (
                         <Tab eventKey={chapter.eventKey} title={chapter.chapterTitle} key={chapter.eventKey}>

@@ -1,76 +1,8 @@
 import React, { useState } from 'react';
 import { Pagination } from 'react-bootstrap';
+import patchNotesData from '../data/patchnotes.json';
 
 function PatchNotes() {
-    const patchNotesData = [
-        {
-            version: "Patch 1.0.132",
-            notes: {
-                Misc: [
-                    "Fixed various bugs.",
-                    "Improved game performance."
-                ],
-                Professions: [
-                    "Added new crafting recipes.",
-                    "Balanced the skill progression."
-                ]
-            }
-        },
-        {
-            version: "Patch 1.0.131",
-            notes: {
-                Misc: [
-                    "Updated UI for better accessibility.",
-                    "Added new background music tracks."
-                ],
-                Professions: [
-                    "Fixed a bug in the fishing profession.",
-                    "Enhanced gathering speed for mining."
-                ]
-            }
-        },
-        {
-            version: "Patch 1.0.130",
-            notes: {
-                Misc: [
-                    "Fixed issue with loading screen.",
-                    "Improved server stability."
-                ],
-                Professions: [
-                    "Added new farming quests.",
-                    "Balanced the loot drops."
-                ]
-            }
-        },
-        {
-            version: "Patch 1.0.129",
-            notes: {
-                Misc: [
-                    "Enhanced graphics performance.",
-                    "Updated character models."
-                ],
-                Professions: [
-                    "Improved fishing mechanics.",
-                    "Fixed a bug in the herbalism profession."
-                ]
-            }
-        },
-        {
-            version: "Patch 1.0.128",
-            notes: {
-                Misc: [
-                    "Adjusted game balance.",
-                    "Improved AI behavior."
-                ],
-                Professions: [
-                    "Added new alchemy recipes.",
-                    "Fixed crafting bugs."
-                ]
-            }
-        }
-        // Add more patches as needed
-    ];
-
     const [currentPage, setCurrentPage] = useState(1);
     const patchesPerPage = 5;
 
