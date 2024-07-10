@@ -1,42 +1,14 @@
 [
     {
-        "role": "Lead Developer",
-        "name": "Sky"
-    },
-    {
-        "role": "Lead Admin",
+        "role": "Project Admin",
         "name": "Sky"
     },
     {
         "role": "Developer",
-        "name": "Sky"
+        "name": "PType"
     },
     {
         "role": "Developer",
-        "name": "Sky"
-    },
-    {
-        "role": "Developer",
-        "name": "Sky"
-    },
-    {
-        "role": "Developer",
-        "name": "Sky"
-    },
-    {
-        "role": "Community Service Representative",
-        "name": "Sky"
-    },
-    {
-        "role": "Community Service Representative",
-        "name": "Sky"
-    },
-    {
-        "role": "Event Coordinator",
-        "name": "Sky"
-    },
-    {
-        "role": "Discord Moderator",
-        "name": "Sky"
+        "name": "Egon"
     }
 ]

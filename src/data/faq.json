@@ -1,34 +1,18 @@
 [
     {
-        "question": "Question #1",
-        "answer": "Lorem ipsum dolor sit amet."
+        "question": "How do I join your discord?",
+        "answer": "Here's our link: https://discord.gg/7Z5mcGB7FC."
     },
     {
-        "question": "Question #2",
-        "answer": "Lorem ipsum dolor sit amet."
+        "question": "How do I Join the closed Alpha testing phase?",
+        "answer": "Join us in discord and follow our announcements for details."
     },
     {
-        "question": "Question #3",
-        "answer": "Lorem ipsum dolor sit amet."
+        "question": "Is there any plans to add non-jedi classes to the game?",
+        "answer": "Yes we do have plans for adding non-jedi to the game."
     },
     {
-        "question": "Question #4",
-        "answer": "Lorem ipsum dolor sit amet."
-    },
-    {
-        "question": "Question #5",
-        "answer": "Lorem ipsum dolor sit amet."
-    },
-    {
-        "question": "Question #6",
-        "answer": "Lorem ipsum dolor sit amet."
-    },
-    {
-        "question": "Question #7",
-        "answer": "Lorem ipsum dolor sit amet."
-    },
-    {
-        "question": "Question #8",
-        "answer": "Lorem ipsum dolor sit amet."
+        "question": "Does this project offer ETAs?",
+        "answer": "As with most projects like these we do not offer ETAs that are set in stone. We may try to give a generalized ETA."
     }
 ]
