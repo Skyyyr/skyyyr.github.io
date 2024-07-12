@@ -2,8 +2,18 @@
     {
         "version": "Patch 0.0.1",
         "notes": {
+            "Alpha Test is here": [
+                "Welcome to the alpha test!"
+            ],
+            "Jedi": [
+                "Disabled 5th generation lightsabers for now.",
+                "Updated 2-Hand lightsaber crafting to test new process."
+            ],
+            "Collections": [
+                "Added a scavenger collection hidden around the starting area."
+            ],
             "Misc": [
-                "Patch notes coming soon."
+                "Starting area now has randomized Padawans hanging around."
             ]
         }
     }
