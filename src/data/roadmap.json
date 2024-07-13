@@ -4,10 +4,12 @@
         "chapterTitle": "Closed Alpha",
         "chapterTitleText": "Highlights from the Chapter. This chapter is our Alpha stage, changes to the Jedi class is the primary focus.",
         "chapterText": [
-            { "text": "Jedi Class balance testing", "status": "notstarted" },
-            { "text": "Collection System testing", "status": "notstarted" },
-            { "text": "Jedi Starting area", "status": "notstarted" },
-            { "text": "Lightsaber Crafting testing", "status": "notstarted" }
+            { "text": "Jedi Class balance testing", "status": "inprogress" },
+            { "text": "Collection System testing", "status": "inprogress" },
+            { "text": "Jedi Starting area", "status": "inprogress" },
+            { "text": "Skillcron Loot", "status": "notstarted" },
+            { "text": "Lightsaber Crafting Loot", "status": "notstarted" },
+            { "text": "Jedi Quests and Storyline", "status": "notstarted" }
         ]
     },
     {
