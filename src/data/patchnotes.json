@@ -9,7 +9,12 @@
             "Misc": [
                 "Removed lightsabers from the frog",
                 "Added Jedi Padawan Robes to the frog",
-                "The Angler Slayer mobs around the starting area drop lightsaber crafting components"
+                "The Angler Slayer mobs around the starting area drop lightsaber crafting components",
+                "Added travel agents to allow for easy travel between mining outpost and the Force Sensitive Enclave",
+                "Added Varik Thul - The founder of the Force Sensitive Enclave (currently teasing a portion of the conversation)"
+            ],
+            "Collections": [
+                "Fixed some of the rotations to the lost carbines within the Force Sensitive Enclave"
             ]
         }
     },
