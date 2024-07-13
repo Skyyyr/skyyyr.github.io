@@ -1,5 +1,19 @@
 [
     {
+        "version": "Patch 0.0.1.1",
+        "notes": {
+            "Jedi": [
+                "Updated Polearm lightsaber crafting to the new process",
+                "Updated 1-Hand lightsaber crafting to the new process"
+            ],
+            "Misc": [
+                "Removed lightsabers from the frog",
+                "Added Jedi Padawan Robes to the frog",
+                "The Angler Slayer mobs around the starting area drop lightsaber crafting components"
+            ]
+        }
+    },
+    {
         "version": "Patch 0.0.1",
         "notes": {
             "Alpha Test is here": [
