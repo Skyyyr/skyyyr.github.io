@@ -6,10 +6,13 @@
         "chapterText": [
             { "text": "Jedi Class balance testing", "status": "inprogress" },
             { "text": "Collection System testing", "status": "inprogress" },
-            { "text": "Jedi Starting area", "status": "inprogress" },
+            { "text": "Jedi Starting area", "status": "completed" },
+            { "text": "Jedi Crafter class", "status": "notstarted" },
+            { "text": "Jedi Buffer class", "status": "notstarted" },
             { "text": "Skillcron Loot", "status": "notstarted" },
-            { "text": "Lightsaber Crafting Loot", "status": "notstarted" },
-            { "text": "Jedi Quests and Storyline", "status": "notstarted" }
+            { "text": "Skillcron Skills", "status": "inprogress" },
+            { "text": "Lightsaber Crafting Loot", "status": "inprogress" },
+            { "text": "Jedi Quests and Storyline", "status": "inprogress" }
         ]
     },
     {

@@ -1,5 +1,38 @@
 [
     {
+        "version": "Patch 0.0.1.2",
+        "notes": {
+            "This patch will require a client update": [
+                "Use your launcher to update, if it doesn't automatically update press 'check for updates'"
+            ],
+            "Jedi": [
+                "Removed an unused ability from Lightsaber Polearm skill tree"
+            ],
+            "Collections": [
+                "Adjusted the location of a few 'Lost Carbines' to work with the updated Force Sensitive Enclave"
+            ],
+            "Storyline": [
+                "Added first round of storyline NPCs to the Force Sensitive Enclave"
+            ],
+            "Misc": [
+                "Added Force Sensitive trainers to the starting areas near the storyline specialists",
+                "Added teleporting NPCs for quick travel for testing the new quest locations",
+                "Fixed the spawn location of the Mining Outpost Travel Agent",
+                "Added more structures for quest locations and modified the Force Sensitive Enclave",
+                "Removed 'Demo Guy' and replaced with actual NPCs for the Force Sensitive Enclave",
+                "Yavin 4 is more likely to have bad weather now to more match the tone we are setting",
+                "Added cloning and insurance terminals to cloning area in the Force Sensitive Enclave",
+                "Remove the Baton from creation and added it to the quest line character Varik Thul",
+                "Added a new robe for Force Sensitives which is granted by Varik Thul"
+            ],
+            "Bug Fixes": [
+                "Fixed strings for several abilities that were either missing or incorrect",
+                "Added the missing +20 Lightsaber experimentation and assembly to reach +100 to each",
+                "Fixed string for lootable Force Power max skill mod for Lightsaber crafting"
+            ]
+        }
+    },
+    {
         "version": "Patch 0.0.1.1",
         "notes": {
             "Jedi": [
