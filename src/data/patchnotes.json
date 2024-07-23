@@ -1,5 +1,33 @@
 [
     {
+       "version": "Patch 0.0.1.3",
+        "notes": {
+            "Jedi":[
+                "Jedi Force Empowerment is now fully implemented and ready for testing",
+                "Jedi Artificer is ready for testing (Food & Drink only at this time)",
+                "Force Run of all tiers is now a toggle (Turn off and on)",
+                "Avoid incap now lasts 15 seconds and reduces the damage of the user for the duration",
+                "Force Focus icon updated",
+                "5th gens have been re-added to Master Lightsaber"
+            ],
+            "Quest": [
+                "Populated more quest areas, added new special NPCs"
+            ],
+            "Misc": [
+                "Added an extra row to the toolbar that allows all postures, macro 1-4, peace, clear combat queue, cycle target inward/outward"
+            ],
+            "Added several mods & server content from MTG, credits below:": [
+                "Borrie BoBaka",
+                "Hamrammr",
+                "Kayliaah",
+                "Revan Dark",
+                "Rinzler",
+                "Sytner",
+                "Valkyra"
+            ]
+        }
+    },
+    {
         "version": "Patch 0.0.1.2",
         "notes": {
             "This patch will require a client update": [

@@ -7,8 +7,8 @@
             { "text": "Jedi Class balance testing", "status": "inprogress" },
             { "text": "Collection System testing", "status": "inprogress" },
             { "text": "Jedi Starting area", "status": "completed" },
-            { "text": "Jedi Crafter class", "status": "notstarted" },
-            { "text": "Jedi Buffer class", "status": "notstarted" },
+            { "text": "Jedi Crafter class", "status": "inprogress" },
+            { "text": "Jedi Buffer class", "status": "inprogress" },
             { "text": "Skillcron Loot", "status": "notstarted" },
             { "text": "Skillcron Skills", "status": "inprogress" },
             { "text": "Lightsaber Crafting Loot", "status": "inprogress" },
@@ -17,7 +17,7 @@
     },
     {
         "eventKey": "Chapter1",
-        "chapterTitle": "Chapter 1 (placeholder)",
+        "chapterTitle": "Beta",
         "chapterTitleText": "Highlights from the Chapter",
         "chapterText": [
             { "text": "This", "status": "completed" },
@@ -28,7 +28,7 @@
     },
     {
         "eventKey": "Chapter2",
-        "chapterTitle": "Chapter 2 (placeholder)",
+        "chapterTitle": "1.0",
         "chapterTitleText": "Highlights from the Chapter",
         "chapterText": [
             { "text": "This", "status": "notstarted" },
